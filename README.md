@@ -15,7 +15,7 @@
 * Pixel based 16x32 (Characters)
 * Top down view, 45°
   * Examples: 
-    ![Example 1](md-assests\images\Stardew-Valley-Example.jpg "Example 1: Stardew Valley")
+    ![Example 1](https://user-images.githubusercontent.com/55430704/159164404-f82e7a70-f7c3-4180-a2cc-2969775f4077.jpg "Example 1: Stardew Valley")
    
     ![Example 2](md-assests\images\No-Place-For-Bravery-Example.jpg "Example 2: No Place for Bravery") 
   
