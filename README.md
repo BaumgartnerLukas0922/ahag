@@ -8,6 +8,11 @@
 3. [Mechanics](#mechanics)
 4. [NPCs](#npcs)
     1. [Types](#types)
+5. [Food](#food)
+    1. [Edible-Food](#edible-food)
+    2. [Non-edible Food](#non-edible-food)
+    3. [Cooked-Food](#cooked-food)
+6. [Achievements](#achievements)
 
 ## Appearance
 
