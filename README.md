@@ -17,7 +17,7 @@
   * Examples: 
     ![Example 1](https://user-images.githubusercontent.com/55430704/159164404-f82e7a70-f7c3-4180-a2cc-2969775f4077.jpg "Example 1: Stardew Valley")
    
-    ![Example 2](md-assests\images\No-Place-For-Bravery-Example.jpg "Example 2: No Place for Bravery") 
+    ![Example 2](https://user-images.githubusercontent.com/55430704/159164438-a37e1539-d17b-48c8-9b4a-27bc6d8c1125.jpg "Example 2: No Place for Bravery") 
   
     ![Example 3](md-assests\images\Moonligher-Example.jpg "Example 3: Moonlighter") 
 
