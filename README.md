@@ -214,3 +214,80 @@
     * throws letters
 
 
+## Food
+### Edible Food
+* Apple
+* Carrot
+* Milk
+* Beechnut
+* Berries
+  * Strawberry
+  * Blueberry
+  * Strangeberry
+### Non-edible Food
+* Egg (uncooked)
+* Flour
+* Salt
+* Sugar
+* Chicken (uncooked)
+
+### Cooked Food
+* Campfire twist bread
+  * Oiled
+  * With Jam
+  * Seasoned
+  * Dryed Ingrediants
+  * Walnut
+  * Italean
+* Chicken (cooked)
+  * Whole
+  * Legs
+  * Wings
+  * Pieces
+* Soup
+  * Meat stew
+  * Vegetable stew
+  * Stew
+* Jam
+  * Strawberry
+  * Apple
+  * Blueberry
+  * Strange
+* Egg
+  * boiled
+  * cooked
+  * fied
+  * scrambled
+  * omlette
+
+## Achievements
+
+* Chef cook
+  * Cook every possible food in the game.
+  
+* Quest-Master
+  * Complete every Side-Quest in the Game.
+
+* Mission completed
+  * Complete every Mission in the Game.
+
+* Hated Hero
+  * Complete the game with a reputation below 10.
+
+* You stupid
+  * Do something stupid.
+
+* Magic user
+  * Learn every spell in the game.
+
+* Eliminating the Post Office
+  * Defeat the Monster in the Post Office.
+
+* Creepy crawlers
+  * Defeat the Monster in the Caves.
+
+* Animal lover
+  * Befriend every pet in the game.
+
+* Fashionable
+  * Own and craft every item of clothing in the game.
