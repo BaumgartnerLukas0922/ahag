@@ -19,7 +19,7 @@
    
     ![Example 2](https://user-images.githubusercontent.com/55430704/159164438-a37e1539-d17b-48c8-9b4a-27bc6d8c1125.jpg "Example 2: No Place for Bravery") 
   
-    ![Example 3](md-assests\images\Moonligher-Example.jpg "Example 3: Moonlighter") 
+    ![Example 3](https://user-images.githubusercontent.com/55430704/159164468-6046fb5c-5bd0-46ff-9ef6-2e7dddf13d9f.jpg "Example 3: Moonlighter") 
 
 ## World
 ### Biomes
