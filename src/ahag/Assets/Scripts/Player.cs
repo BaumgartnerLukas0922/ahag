@@ -8,6 +8,7 @@ using UnityEngine.UI;
 public class Player : MonoBehaviour
 {
     public GameObject playerObject;
+    private BoxCollider2D boxCollider;
 
     private InputActionAsset actions;
     private PlayerInputActions playerInputActions;
@@ -25,11 +26,13 @@ public class Player : MonoBehaviour
 
     private void Start()
     {
+        boxCollider = GetComponent<BoxCollider2D>();
     }
     // Update is called once per frame
     void Update()
     {
         Vector2 movementVector = playerInputActions.Player.Move.ReadValue<Vector2>();
+
         movementVector *= new Vector2(Speed/500, Speed/500);
         playerObject.transform.Translate(movementVector);
     }
