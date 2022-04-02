@@ -11,34 +11,23 @@ public class Player : MonoBehaviour
 
     private InputActionAsset actions;
     private PlayerInputActions playerInputActions;
-    
+
 
     private void Awake()
     {
         playerInputActions = new PlayerInputActions();
         playerInputActions.Player.Enable();
-        
-        // for one-tap movements like jumping, special ability (stuff that's not continuous)
-        // append a listener-function:
         //playerInputActions.Player.Move.performed += Moved;
     }
 
-    // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
-        
     }
-
     // Update is called once per frame
     void Update()
     {
-        ContinuousMovement();
-    }
-
-    void ContinuousMovement()
-    {
         Vector2 movementVector = playerInputActions.Player.Move.ReadValue<Vector2>();
-        movementVector *= new Vector2(0.05f, 0.05f);
+        movementVector *= new Vector2(0.01f, 0.01f);
         playerObject.transform.Translate(movementVector);
     }
 }
