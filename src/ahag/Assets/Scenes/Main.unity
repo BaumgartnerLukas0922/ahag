@@ -3087,6 +3087,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerObject: {fileID: 1342942750}
+  Speed: 1
 --- !u!212 &1342942752
 SpriteRenderer:
   m_ObjectHideFlags: 0

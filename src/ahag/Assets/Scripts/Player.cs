@@ -12,6 +12,9 @@ public class Player : MonoBehaviour
     private InputActionAsset actions;
     private PlayerInputActions playerInputActions;
 
+    [Tooltip("Speed")]
+    public float Speed;
+
 
     private void Awake()
     {
@@ -27,7 +30,7 @@ public class Player : MonoBehaviour
     void Update()
     {
         Vector2 movementVector = playerInputActions.Player.Move.ReadValue<Vector2>();
-        movementVector *= new Vector2(0.01f, 0.01f);
+        movementVector *= new Vector2(Speed/500, Speed/500);
         playerObject.transform.Translate(movementVector);
     }
 }
