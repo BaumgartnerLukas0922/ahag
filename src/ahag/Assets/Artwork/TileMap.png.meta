@@ -1,7 +1,10 @@
 fileFormatVersion: 2
 guid: d736c8c4b81eb2945a2ef84789e4d224
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 8537651536920830917
+    second: Stump_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -455,6 +458,27 @@ TextureImporter:
       bones: []
       spriteID: 3d14f6c7cfcb6bc4b8799fcc7183443a
       internalID: -2078997917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stump_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3eb32a6d4db7670800000000000000
+      internalID: 8537651536920830917
       vertices: []
       indices: 
       edges: []
