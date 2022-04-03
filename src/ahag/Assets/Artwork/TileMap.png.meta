@@ -24,7 +24,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -104,7 +103,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Grass1
+      name: Grass_1
       rect:
         serializedVersion: 2
         x: 0
@@ -125,7 +124,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass4
+      name: Grass_4
       rect:
         serializedVersion: 2
         x: 0
@@ -146,7 +145,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass2
+      name: Grass_2
       rect:
         serializedVersion: 2
         x: 16
@@ -167,7 +166,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass3
+      name: Grass_3
       rect:
         serializedVersion: 2
         x: 32
@@ -188,7 +187,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass7
+      name: Grass_7
       rect:
         serializedVersion: 2
         x: 0
@@ -209,7 +208,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass5
+      name: Grass_5
       rect:
         serializedVersion: 2
         x: 16
@@ -230,7 +229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass6
+      name: Grass_6
       rect:
         serializedVersion: 2
         x: 32
@@ -251,7 +250,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass9
+      name: Grass_9
       rect:
         serializedVersion: 2
         x: 32
@@ -272,7 +271,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass8
+      name: Grass_8
       rect:
         serializedVersion: 2
         x: 16
@@ -448,7 +447,7 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -470,24 +469,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Grass4: -1777536068
-      fence_corner_tl: -974062610
-      Grass9: 1950498192
-      Grass1: -309792022
-      fence_vertical_2: 890652477
-      fence_corner_bl: 671429649
-      fence_corner_tr: 1290600351
-      Player_1: -2078997917
-      Grass3: 350221915
-      Grass6: 1571142156
-      Grass7: 1852422413
-      Grass8: -995920707
-      fence_corner_br: -148559480
-      fence_vertical_1: -1123274005
-      Grass5: -626856563
-      fence_horizontal: 640825298
-      Grass2: -387731009
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
