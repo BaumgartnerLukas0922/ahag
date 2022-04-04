@@ -29,11 +29,11 @@ public class Player : MonoBehaviour
         boxCollider = GetComponent<BoxCollider2D>();
     }
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         Vector2 movementVector = playerInputActions.Player.Move.ReadValue<Vector2>();
 
-        movementVector *= new Vector2(Speed/500, Speed/500);
+        movementVector *= new Vector2(Speed/100, Speed/100);
         playerObject.transform.Translate(movementVector);
     }
 }
