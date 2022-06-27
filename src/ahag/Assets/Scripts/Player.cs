@@ -36,4 +36,6 @@ public class Player : MonoBehaviour
         movementVector *= new Vector2(Speed/100, Speed/100);
         playerObject.transform.Translate(movementVector);
     }
+    
+
 }
